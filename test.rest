@@ -11,3 +11,7 @@ Content-Type: application/json
 
 ###
 GET http://localhost:5353/api/testParams/dyanmicWord
+
+###
+GET https://stocks-jvoh.onrender.com/api/stock?stock=mrna&password=1234
+
